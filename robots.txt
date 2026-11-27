@@ -1,0 +1,8 @@
+# robots.txt — https://www.sosimtech.com/
+# Allow all search engines and AI answer engines (ChatGPT, Perplexity,
+# Google AI Overviews, Claude, Copilot) to crawl and cite this site.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sosimtech.com/sitemap.xml
