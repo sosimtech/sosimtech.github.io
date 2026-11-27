@@ -1,0 +1,31 @@
+# SoSimTech
+
+> SoSimTech (Sosimtech Solutions) is a custom software development company that helps startups and mid-size businesses build great websites and intuitive mobile apps. It offers full-cycle services — from design and development to testing and SEO — so clients can focus on their core business while SoSimTech handles the technology.
+
+## Services
+
+- Web Development: on-time delivery of highly scalable web solutions, covering all phases of development and design.
+- Mobility (Mobile App Development): highly functional, great-looking apps for smartphones, tablets, automobiles and watches.
+- Testing / QA: full-cycle testing and quality assurance for web, desktop and mobile applications.
+- SEO / Digital Marketing: sustainable, low-cost managed SEO delivered by an in-house team of SEO experts.
+- Chrome Extension Development: extensions for Google Chrome and other Chromium-based browsers.
+- Internet of Things (IoT): solutions for the "Internet of Things" within an affordable budget.
+- Payroll Management: simple systems to manage employee financial records — salaries, deductions, bonuses and pay-slips.
+- Extended Team: dedicated, customized development teams for flexibility, increased ROI and faster time to market.
+
+## Team
+
+- Vaibhav Soni — Founder
+- Nikhil Sen — Project Manager
+- Kumar Ronak — Advisor (VP Technology, fintech leader)
+- Sourav Ray — Advisor (Developer, Architect, Fractional CTO)
+- Plus software engineers, a QA engineer, an assistant engineer and an SEO executive manager.
+
+## Contact
+
+- Website: https://www.sosimtech.com/
+- Email: admin@sosimtech.com
+- Contact form: https://www.sosimtech.com/#contact (response within a few hours)
+- Careers: https://www.linkedin.com/company/sosimtechsolutions/jobs
+- LinkedIn: https://www.linkedin.com/company/sosimtechsolutions
+- Instagram: https://www.instagram.com/sosimtech/
